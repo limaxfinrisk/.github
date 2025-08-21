@@ -5,6 +5,6 @@
 Financial risk management software for banks and financial institutions — covering market risk, liquidity risk, asset-liability management (ALM), and regulatory compliance.
 
 - **Market Risk** – advanced analytics to assess and navigate volatility.
-- **Liquidity Risk** – real-time monitoring and forecasting tools  
-- **Asset Liability Management (ALM)** – balance sheet optimization  
-- **Regulatory Compliance** – automated reporting and insights
+- **Liquidity Risk** – real-time monitoring and forecasting tools.
+- **Asset Liability Management (ALM)** – balance sheet optimization.
+- **Regulatory Compliance** – automated reporting and insights.
